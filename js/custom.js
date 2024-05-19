@@ -22,7 +22,7 @@
     });
 
 
-    // HOME SLIDER & COURSES & CLIENTS
+    // HOME 
     $('.home-slider').owlCarousel({
       animateOut: 'fadeOut',
       items:1,
