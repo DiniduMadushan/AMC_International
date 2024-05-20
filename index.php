@@ -46,7 +46,7 @@
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
-                         <li><a href="login.html"><i class="fa-regular fa-user"></i> &nbsp;Login</a></li>
+                         <li><a href="login.php"><i class="fa-regular fa-user"></i> &nbsp;Login</a></li>
                     </ul>
                </div>
 
